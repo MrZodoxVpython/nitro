@@ -15,7 +15,7 @@ body {
 	);
 }
 .container {
-	margin-left: 25px;
+	margin: 20px;
 	width: 300px;
 	background: white;
 	padding: 20px;
