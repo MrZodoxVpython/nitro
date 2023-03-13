@@ -38,7 +38,7 @@ body {
 }
 .image-container {
 	width: 200px;
-	margin: auto;
+	margin: 5%;
 }
 .image-container img {
 	width: 100%;
