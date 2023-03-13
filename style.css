@@ -38,7 +38,8 @@ body {
 }
 .image-container {
 	width: 200px;
-	margin: 0%;
+	margin: auto;
+	height: auto;
 }
 .image-container img {
 	width: 100%;
