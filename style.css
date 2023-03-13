@@ -88,11 +88,10 @@ button {
 	border-radius: 30px;
 	color: white;
 	cursor: pointer;
-	
-	background: rgb(84, 139, 247);
+  background: rgb(194, 139, 247);
 	background: linear-gradient(
 		142deg,
-	    rgba(24, 139, 247, 1)
-	    rgba(73, 83, 228, 1) 10%
+	    rgba(124, 139, 47, 1)
+	    rgba(73, 83, 228, 1) 100%
 	);
 }
