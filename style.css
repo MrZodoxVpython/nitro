@@ -11,8 +11,8 @@ body {
 	background: rgb(84, 139, 237);
 	background: linear-gradient(
 	  142deg,
-	  rgba(64, 139, 247, 1) 0%,
-	  rgba(433, 83, 838, 1) 100%
+	  rgba(64, 189, 247, 1) 0%,
+	  rgba(433, 83, 238, 1) 100%
 	);
 }
 .container {
