@@ -8,11 +8,11 @@ body {
 	align-items: center;
 	height: 100vh;
 	font-family: Arial, Helvetica, Sans-Serif;
-	background: rgb(84, 139, 247);
+	background: rgb(84, 139, 237);
 	background: linear-gradient(
 	  142deg,
 	  rgba(84, 139, 247, 1) 0%,
-	  rgba(173, 83, 228, 1) 100%
+	  rgba(173, 83, 838, 1) 100%
 	);
 }
 .container {
